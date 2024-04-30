@@ -1,0 +1,8 @@
+git init                                                                inicializē git repozitoriju
+git config user.name "Estere Venena"
+git config user.email "venena.estere@gmail.com"                         konfigurē savu vārdu un epastu priekš lokālās repozitorijas
+git add fails.txt                                                       pievieno failu
+git commit -m "1 uzdevums"                                              izveido commit
+git remote add origin https://github.com/2PT-github/venena_estere)      savieno git repozitoriju ar attālo repozitoriju
+git push -u origin master                                               augšuplādē repozitoriju uz attālot repozitoriju
+
