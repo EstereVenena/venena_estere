@@ -1,1 +1,9 @@
+Merge:
+  Merge apvieno izmaiņas no viena zara citā, radot jaunu commit, kas apvieno divu zaru vēsturi. Tas izraisa "sapludināšanas" commitus, kas saglabā visu zaru vēsturi. 
+  Rezultātā ir nepārtrauktāka vēsture, jo redzams, kad tika veikts merge.
+  Merge ir drošāks, jo tas nerada draudus vēstures pārrakstīšanai.
 
+Rebase:
+  Rebase process pārkārto commit vēsturi, pieliekot commitus no viena zara virs otra zara commitiem.
+  Rebase var būt noderīgs, ja vēlies "tīru" vēsturi bez sapludinājumiem.
+  Rebase var izraisīt izmaiņas vēsturē, kas var būt bīstami, ja strādā kopā ar citiem.
