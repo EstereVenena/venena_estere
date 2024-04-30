@@ -1,0 +1,2 @@
+git branch zars1          izveido jaunu zaru
+git switch -c zars1       pārslēdzas no main uz zars1
