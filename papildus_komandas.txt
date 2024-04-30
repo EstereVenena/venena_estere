@@ -1,0 +1,3 @@
+git status                              apskata git repo statusu
+git log                                 apskata git repo vēsturi
+git checkout <commit-hash>              atgriež noteiktā commit
